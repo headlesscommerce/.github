@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/vuestorefront">
+    <a href="https://twitter.com/headlessagency">
         <img alt="Follow Us on Twitter" src="https://img.shields.io/twitter/follow/headlessagency?style=social" />
     </a>
 </p>
